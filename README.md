@@ -5,8 +5,6 @@
 This project implements a deep learning solution for breast cancer detection using Convolutional Neural Networks(CNN). The model is trained on a dataset of medical images(breast tissue biopsies) to classify between benign and malignant cases, achieving high accuracy in detection.
 
 
-This project implements a deep learning solution for breast cancer detection using Convolutional Neural Networks (CNN). The model is trained on a dataset of medical images to classify between benign and malignant cases, achieving high accuracy in detection.
-
 ## Features
 - **Deep Learning Model**: Custom CNN architecture optimized for medical image classification
 - **Data Augmentation**: Comprehensive augmentation pipeline including:
