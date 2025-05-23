@@ -66,7 +66,6 @@ The model implements a CNN with the following structure:
 The model achieves:
 - Training accuracy: ~87%
 - Validation accuracy: ~88%
-- Proper convergence with minimal overfitting Training accuracy: 
 
 ## Future Improvements
 - [ ] Add model interpretation capabilities
